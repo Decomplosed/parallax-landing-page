@@ -65,3 +65,20 @@ ul {
 	position: relative;
 	padding: 0 20px;
 }
+
+.section-top {
+	min-height: 500px;
+	background: url('https://i.ibb.co/PhVR2Vh/bg1.png') no-repeat center center/cover;
+}
+
+.section-top h1 {
+	font-size: 70px;
+	line-height: 1.3;
+}
+
+.section-top .content {
+	position: absolute;
+	top: 100px;
+	right: 20px;
+	width: 55%;
+}
