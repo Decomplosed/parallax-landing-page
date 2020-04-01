@@ -48,3 +48,7 @@ ul {
 	font-size: 16px;
 	margin-top: 10px;
 }
+
+.btn:hover {
+	transform: scale(0.98);
+}
